@@ -6,3 +6,4 @@ langgraph~=0.2.67
 langchain-core~=0.3.31
 pydantic~=2.10.6
 langchain-groq~=0.2.3
+duckduckgo-search~=7.2.1
